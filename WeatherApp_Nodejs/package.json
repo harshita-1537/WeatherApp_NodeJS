@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp_nodejs",
+  "version": "1.0.0",
+  "description": "weatherApp",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshita",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {}
+}
